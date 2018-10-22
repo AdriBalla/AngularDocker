@@ -1,4 +1,6 @@
-# Dockerized Angular
+# Dockerized Angular 
+
+This project was generated with Angular CLI version 7.0.2. 
 
 This project allows you to run an Angular application inside a Docker container.
 
