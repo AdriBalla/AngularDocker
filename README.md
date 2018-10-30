@@ -18,10 +18,10 @@ You can find more about the npm installation here : https://www.npmjs.com/get-np
 
 ## Getting Started
 
-Pull the project by using the following command :
+Clone the project by using the following command :
 
 ```
-git pull https://github.com/AdriBalla/AngularDocker.git
+git clone https://github.com/AdriBalla/AngularDocker.git
 ```
 
 ## Init Angular
